@@ -10,6 +10,6 @@
 
 
 ## 📫 How to reach me
-[LinkedIn] (https://www.linkedin.com/in/jackdimarco/)
+[LinkedIn](https://www.linkedin.com/in/jackdimarco/)
 
-[Email] (jdimarcodev@gmail.com)
+[Email](jdimarcodev@gmail.com)
