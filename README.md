@@ -2,7 +2,7 @@
 
 -📚 I'm currently a student at the Georgia Institute of Technology
 
--💻 I'm interested in Software Development
+-💻 I'm interested in Software Engineering
 
 -🔭 I have experience with Java, Python, C, and JavaScript (including React.js and Node.js)
 
