@@ -4,7 +4,7 @@
 
 -💻 I'm interested in Software Engineering
 
--🔭 I have experience with Java, Python, C, and JavaScript (including React.js and Node.js)
+-🔭 I have development experience with Java, Python, and JavaScript
 
 -🎸 I love to program and play music
 
