@@ -12,4 +12,4 @@
 ## 📫 How to reach me
 [LinkedIn](https://www.linkedin.com/in/jackdimarco/)
 
-[Email](jdimarcodev@gmail.com)
+[Email](mailto:jdimarcodev@gmail.com)
