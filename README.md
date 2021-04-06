@@ -6,7 +6,7 @@
 
 -🔭 I have development experience with Java, Python, and JavaScript
 
--🎸 I love to program and play music
+-🎸 I love programming and playing music
 
 
 ## 📫 How to reach me
