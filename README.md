@@ -1,8 +1,8 @@
 ### Hey there, I'm Jack 👋
 
--📚 I'm currently a student at the Georgia Institute of Technology
+-📚 I have a Computer Science degree from Georgia Tech
 
--💻 I'm interested in Backend Software Engineering
+-💻 I'm currently Backend Software Engineer at Salesforce
 
 -🔭 I have the most development experience with Java, Python, and JavaScript
 
