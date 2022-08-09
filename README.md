@@ -2,7 +2,7 @@
 
 -📚 I have a Computer Science degree from Georgia Tech
 
--💻 I'm currently a Backend Software Engineer at Salesforce
+-💻 I'm currently a Software Engineer at Salesforce
 
 -🔭 I have the most development experience with Java, Python, and JavaScript
 
