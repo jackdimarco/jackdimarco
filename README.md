@@ -1,10 +1,1 @@
-### Hey there, I'm Jack 👋
-
--📚 I have a Computer Science degree from Georgia Tech
-
--💻 I'm currently a Software Engineer at Salesforce
-
-## 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/jackdimarco/)
-
-[Email](mailto:jdimarcodev@gmail.com)
+![ashlake](https://github.com/user-attachments/assets/81fd03fd-d991-4182-b61f-3dac1c28d972)
